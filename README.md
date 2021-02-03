@@ -1,5 +1,5 @@
 # Text-Editor
-First project of the Advanced Programming course took in Spring 2017
+First project of the Advanced Programming course taken in Spring 2017
 
 This project's goal was to build a text editor in java that mimics the actions of NotePad and has some additional features as well.
 
